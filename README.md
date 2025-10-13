@@ -13,6 +13,7 @@ A community curated list of headless commerce related APIs, products, and servic
 - [Chord](https://chord.co/) &mdash; The API-first, Data-first Commerce Platform. Created by experts in DTC innovation.
 - [Saleor](https://saleor.io/) &mdash; A GraphQL-first, headless e-commerce platform for perfectionists.
 - [Boundless Commerce](https://boundless-commerce.com) &mdash; API’s First Headless eCommerce Platform. Free Next.js Templates! Just clone & deploy!
+- [Bagisto Headless Commerce](https://bagisto.com/en/headless-ecommerce/) — The Complete Open Source Headless eCommerce Platform for B2B, B2C, and Marketplace, powered by GraphQL for Lightning Performance and Flexibility
 
 ## Hybrids
 
